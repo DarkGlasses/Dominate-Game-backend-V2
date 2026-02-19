@@ -5,7 +5,7 @@ const doc = {
     title: 'GAMEDOMINATE+ API',
     description: 'API for the GAMEDOMINATE+'
   },
-  host: 'dominate-game-backend-v2.onrender',
+  host: 'localhost:4000',
   schemes: ['http']
 };
 
